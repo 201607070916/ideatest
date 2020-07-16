@@ -1,6 +1,6 @@
-package com.hand;
+package com.hand.entity;
 
-public class entity {
+public class user {
     private Integer id;
     private String name;
 }
